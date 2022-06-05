@@ -46,3 +46,9 @@ International University MITSO
 Information systems and technologies
 
 September 2018 - June 2022
+
+## Languages
+
+1. Russian - Native
+2. English - Intermediate
+3. Polish - Upper-Intermediate
