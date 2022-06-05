@@ -20,3 +20,11 @@ Thanks to this, I understood how to work with WordPress and learned how to inter
 2. HTML
 3. CSS
 4. Git
+
+## Code Example
+
+'''
+function multiply (a, b) {
+return a \* b
+}
+'''
