@@ -13,3 +13,10 @@
 I really enjoy working in the field of web development and I love this profession.
 Вuring my internship at the university, I created landing pages for the organization LLC "VKS Technologies and Systems" using WordPress Elementor. The whole job took about 2 months.
 Thanks to this, I understood how to work with WordPress and learned how to interact with the team.
+
+## Skills
+
+1. JavaScript(Basic)
+2. HTML
+3. CSS
+4. Git
