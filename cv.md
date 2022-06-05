@@ -28,3 +28,10 @@ function multiply (a, b) {
 return a * b
 }
 ```
+
+## Experience
+
+Web Developer
+LLC "VKS Technologies and Systems" · Internship
+Apr 2022 - May 2022 / 2 month
+Minsk, Republic of Belarus
