@@ -38,3 +38,11 @@ LLC "VKS Technologies and Systems" · Internship
 Apr 2022 - May 2022 / 2 month
 
 Minsk, Republic of Belarus
+
+## Education
+
+International University MITSO
+
+Information systems and technologies
+
+September 2018 - June 2022
