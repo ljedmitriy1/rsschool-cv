@@ -23,8 +23,8 @@ Thanks to this, I understood how to work with WordPress and learned how to inter
 
 ## Code Example
 
-'''
+```
 function multiply (a, b) {
-return a \* b
+return a * b
 }
-'''
+```
